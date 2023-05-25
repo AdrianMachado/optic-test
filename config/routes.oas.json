@@ -691,6 +691,7 @@
         "operationId": "ce159c18-f1b5-493d-ba46-30132797f8ba",
         "responses": {
           "200": {
+            "description": "Standard object response",
             "content": {
               "application/json": {
                 "schema": {
