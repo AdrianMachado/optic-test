@@ -1,2 +1,6 @@
 ruleset:
   - breaking-changes
+  - spectral:
+      # You can also point this at your own `spectral.yaml` file!
+      always:
+        - https://www.apistyleguides.dev/api/url-style-guides/3ba0b4a
