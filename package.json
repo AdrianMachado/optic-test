@@ -10,6 +10,7 @@
     "postinstall": "husky install"
   },
   "dependencies": {
+    "@stoplight/spectral-cli": "^6.8.0",
     "@useoptic/optic": "^0.43.3",
     "@zuplo/core": "^5.42.0",
     "@zuplo/runtime": "^5.42.0"
