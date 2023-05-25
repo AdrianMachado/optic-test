@@ -688,7 +688,18 @@
             "inbound": []
           }
         },
-        "operationId": "ce159c18-f1b5-493d-ba46-30132797f8ba"
+        "operationId": "ce159c18-f1b5-493d-ba46-30132797f8ba",
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
       }
     }
   }
