@@ -700,7 +700,17 @@
               }
             }
           }
-        }
+        },
+        "parameters": [
+          {
+            "name": "testParam-wow",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ]
       }
     }
   }
